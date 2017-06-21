@@ -1,0 +1,6 @@
+如何打开及配置Nginx：
+
+1.打开终端
+2.编辑Nginx
+3.配置#vim /usr/local/etc/nginx/nginx.conf
+4从新启动：#brew services restart nginx

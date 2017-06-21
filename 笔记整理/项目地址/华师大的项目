@@ -1,0 +1,14 @@
+
+项目:ecnuas20170613
+模块:nodejs
+您可以在terminal的任意目录执行以下命令clone git仓库
+
+#!/usr/bin/env bash
+mkdir ecnuas20170613
+cd ecnuas20170613
+mkdir nodejs
+cd nodejs
+git clone ssh://git@file.5ftech.com:/mnt/opt/git/devopsProjects/ecnuas20170613/nodejs/nodejs-src.git
+git clone ssh://git@file.5ftech.com:/mnt/opt/git/devopsProjects/ecnuas20170613/nodejs/nodejs-dist.git
+git clone ssh://git@file.5ftech.com:/mnt/opt/git/devopsProjects/ecnuas20170613/ecnuas20170613-docs.git
+cd ../../
